@@ -28,7 +28,7 @@ Software Engineer | Master’s student in Web Engineering ([MIW](https://miw.uni
 
 ![Tools & CI/CD](https://skillicons.dev/icons?i=git,vscode,obsidian,githubactions,pycharm,androidstudio)
 
-#### Backend and Databases
+#### Backend & Databases
 
 ![Backend and Databases](https://skillicons.dev/icons?i=spring,nodejs,express,mysql,mongodb)
 
