@@ -4,7 +4,7 @@
 
 Software Engineer | Master’s student in Web Engineering ([MIW](https://miw.uniovi.es/)) at the [University of Oviedo](https://www.uniovi.es/)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=2000&color=808080&center=true&vCenter=true&random=false&width=620&lines=Perfect+is+the+enemy+of+good;Still+reading+the+docs;Weeks+of+coding+can+save+you+hours+of+planning;Works+on+my+machine;Have+you+tried+turning+it+off+and+on+again;Good+code+is+obvious;Overengineering+is+still+engineering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=2000&color=808080&center=true&vCenter=true&random=false&width=620&lines=Perfect+is+the+enemy+of+good;Still+reading+the+docs;Weeks+of+coding+can+save+you+hours+of+planning;Works+on+my+machine;Have+you+tried+turning+it+off+and+on+again?;Good+code+is+obvious;Overengineering+is+still+engineering" alt="Typing SVG" />
 
 <br/>
 
